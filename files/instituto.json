@@ -1,0 +1,54 @@
+{
+  "nombre": "IES VILLABLANCA",
+  "empleados": [
+    {
+      "idiomas": 0,
+      "dni": "53258765V",
+      "nombre": "Oscar",
+      "edad": 18,
+      "sueldo": 900.0
+    },
+    {
+      "idiomas": 2,
+      "dni": "53983128N",
+      "nombre": "Ana",
+      "edad": 23,
+      "sueldo": 1000.0
+    },
+    {
+      "publicaciones": 2,
+      "dni": "52819576M",
+      "nombre": "Miguel",
+      "edad": 60,
+      "sueldo": 1500.0
+    },
+    {
+      "publicaciones": 1,
+      "dni": "52683159P",
+      "nombre": "Pedro",
+      "edad": 54,
+      "sueldo": 1700.0
+    },
+    {
+      "años de experiencia": 7,
+      "dni": "53443162A",
+      "nombre": "Emma",
+      "edad": 37,
+      "sueldo": 1200.0
+    },
+    {
+      "años de experiencia": 2,
+      "dni": "53852462C",
+      "nombre": "Carmen",
+      "edad": 35,
+      "sueldo": 1200.0
+    }
+  ],
+  "direccion": {
+    "id": 1,
+    "calle": "C/ Villablanca",
+    "numero": 89,
+    "poblacion": "Madrid",
+    "localidad": "Vicalvaro"
+  }
+}

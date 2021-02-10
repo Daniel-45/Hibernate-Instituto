@@ -16,3 +16,11 @@ La aplicación permite realizar las siguientes operaciones:
 8 . Mostrar empleados instituto ordenados por edad  
 9 . Mostrar suma total de sueldos de los empleados  
 0 . Salir de la aplicación
+
+## Requisitos
+
+Es necesario tener instalado:
+
+* Eclipse IDE 2020-03 o superior [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+
+* H2 Database Engine [https://www.h2database.com/html/main.html](https://www.h2database.com/html/main.html)

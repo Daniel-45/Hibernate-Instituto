@@ -29,7 +29,7 @@ import lombok.experimental.SuperBuilder;
 @AllArgsConstructor
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
 @Entity
-@Table(name = "EMPLEADOS_INSTITUTOS")
+@Table(name = "EMPLEADOS_INSTITUTOS_HIBERNATE")
 @Inheritance(strategy = InheritanceType.SINGLE_TABLE)
 @DiscriminatorColumn(name = "DIS", discriminatorType = DiscriminatorType.STRING)
 public abstract class Empleado implements Serializable {

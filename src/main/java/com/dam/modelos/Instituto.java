@@ -36,7 +36,7 @@ import lombok.Singular;
 @AllArgsConstructor
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
 @Entity
-@Table(name = "INSTITUTOS")
+@Table(name = "INSTITUTOS_HIBERNATE")
 public class Instituto implements Serializable {
 
 	// Atributos
